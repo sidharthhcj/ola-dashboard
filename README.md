@@ -9,16 +9,16 @@ This project focuses on analyzing Ola ride data using **Power BI**, **Excel Data
 ![Dashboard](slide1.png)
 
 ### Dashboard View 2
-![Dashboard](slide2.png)
+![Dashboard](slide 2.png)
 
 ### Dashboard View 3
-![Dashboard](slide3.png)
+![Dashboard](slide 3.png)
 
 ### Dashboard View 4
-![Dashboard](slide4.png)
+![Dashboard](slide 4.png)
 
 ### Dashboard View 5
-![Dashboard](slide5.png)
+![Dashboard](slide 5.png)
 ## 🎯 Objectives
 - Clean and preprocess raw ride data.
 - Perform data analysis using SQL.
